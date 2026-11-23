@@ -1,0 +1,5 @@
+poste : Latitude-3540-5f0747b7
+interface : enp1s0
+ip/masque : 172.16.60.12/24
+passerelle : 172.16.60.253
+ping passerelle : OK
